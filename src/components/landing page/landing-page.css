@@ -1,0 +1,28 @@
+.landing-image img{
+    height: 500px;
+}
+.landing{
+    display: flex;
+    border: 1px solid grey;
+    width: 700px;
+    margin: auto;
+    margin-top: 60px;
+}
+.landing-text{
+    margin: auto;
+}
+.text{
+    font-size:30px;
+    color: green;
+    font-family: ;
+}
+.button{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 15px;
+    border: 2px solid green;
+    border-radius: 5px;
+    color: green;
+    background-color: white;
+    padding: 5px;
+}

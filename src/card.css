@@ -1,0 +1,52 @@
+.card{
+    border: 1px solid grey;
+    margin-top: 20px;
+    width: 450px;
+    margin: auto;
+   margin-bottom: 30px;
+   margin-top: 20px;
+   
+}
+.card-info{
+    padding: 10px;
+    display: flex;
+}
+.info-name{
+    font-weight: bold;
+}
+.info-location{
+    color: grey;
+}
+.card-info span{
+   margin-left: auto;
+}
+.card-image img{
+    object-fit: cover;
+    width: 100%;
+}
+.card-actions span{
+    margin-left: 10px;
+}
+.date{
+    float: right;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.likes{
+    color: grey;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.description{
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.card-actions span img{
+    height: 20px;
+    width: 20px;
+}
+.card-actions{
+    margin-top: 5px;
+}
